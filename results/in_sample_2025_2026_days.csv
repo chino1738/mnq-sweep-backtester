@@ -1,0 +1,470 @@
+date,setup,session,htf_gap,pdra,2R
+2025-01-03,True,S 09:50 stop -366,S 09:50 stop -366,S 09:50 target +260,S 09:50 stop -366
+2025-01-06,False,,,,
+2025-01-07,False,,,,
+2025-01-08,True,L 10:55 stop -256,L 10:55 stop -256,L 10:55 stop -256,L 10:55 stop -256
+2025-01-09,False,,,,
+2025-01-10,True,L 11:15 time +708,L 11:15 time +708,L 11:15 target +567,L 11:15 target +919
+2025-01-13,True,L 09:50 target +405,L 09:50 target +506,L 09:50 target +148 | L 11:10 target +939,L 09:50 time +553
+2025-01-14,True,S 10:10 target +836,S 10:10 target +1445,S 10:10 target +1445,S 10:10 target +970
+2025-01-15,True,S 11:05 stop -447,S 11:05 stop -447,S 11:05 target +244,S 11:05 stop -447
+2025-01-16,False,,,,
+2025-01-17,True,S 11:00 stop -410,S 11:00 stop -410,S 11:00 stop -410,S 11:00 stop -410
+2025-01-20,False,,,,
+2025-01-21,False,,,,
+2025-01-22,False,,,,
+2025-01-23,False,,,,
+2025-01-24,False,,,,
+2025-01-27,True,S 11:00 target +107,S 11:00 target +287,S 11:00 target +287,S 11:00 time +177
+2025-01-28,False,,,,
+2025-01-29,False,,,,
+2025-01-30,False,,,,
+2025-01-31,True,S 11:40 target +886,S 11:40 target +163,S 11:40 target +121,S 11:40 target +852
+2025-02-03,False,,,,
+2025-02-04,True,S 10:50 stop -487,S 10:50 stop -487,S 10:50 stop -487,S 10:50 stop -487
+2025-02-05,True,S 10:15 stop -487,S 10:15 stop -487,S 10:15 stop -487,S 10:15 stop -487
+2025-02-06,True,S 10:35 target +63,S 10:35 stop -350,S 10:35 stop -350,S 10:35 stop -350
+2025-02-07,False,,,,
+2025-02-10,False,,,,
+2025-02-11,False,,,,
+2025-02-12,True,L 10:20 target +213,no target,L 10:20 target +121,L 10:20 time +159
+2025-02-13,True,S 11:50 stop -490,S 11:50 stop -490,S 11:50 target +246,S 11:50 stop -490
+2025-02-14,True,S 10:30 stop -461,S 10:30 stop -461,S 10:30 stop -461,S 10:30 stop -461
+2025-02-17,False,,,,
+2025-02-18,False,,,,
+2025-02-19,True,L 10:35 target +759,no target,L 10:35 target +362,L 10:35 target +940
+2025-02-20,True,L 11:05 time +369,L 11:05 target +215,L 11:05 target +215,L 11:05 time +369
+2025-02-21,False,,,,
+2025-02-24,True,L 11:25 stop -318,L 11:25 stop -318,L 11:25 stop -318,L 11:25 stop -318
+2025-02-25,False,,,,
+2025-02-26,True,L 09:50 target +92,L 09:50 stop -476,L 09:50 target +126,L 09:50 stop -476
+2025-02-27,True,L 10:20 stop -448,L 10:20 stop -448,L 10:20 stop -448,L 10:20 stop -448
+2025-02-28,True,L 10:00 target +148,L 10:00 target +156,L 10:00 target +156,L 10:00 target +588
+2025-03-03,True,L 10:35 stop -343,L 10:35 stop -343,L 10:35 stop -343,L 10:35 stop -343
+2025-03-04,True,L 10:55 target +1475,L 10:55 target +1620,L 10:55 target +971,L 10:55 target +970
+2025-03-05,True,L 10:35 stop -315,L 10:35 stop -315,L 10:35 stop -315,L 10:35 stop -315
+2025-03-06,True,L 11:45 stop -387,L 11:45 stop -387,L 11:45 stop -387,L 11:45 stop -387
+2025-03-07,False,,,,
+2025-03-10,True,L 11:10 stop -352,L 11:10 stop -352,L 11:10 target +151,L 11:10 stop -352
+2025-03-11,True,L 11:05 target +96,L 11:05 stop -408,L 11:05 stop -408,L 11:05 stop -408
+2025-03-12,False,,,,
+2025-03-13,True,L 10:50 stop -276,L 10:50 stop -276,L 10:50 stop -276,L 10:50 stop -276
+2025-03-14,True,S 10:05 stop -501 | S 12:00 stop -466,no target,S 10:05 stop -501 | S 12:00 target +591,S 10:05 stop -501 | S 12:00 stop -466
+2025-03-17,True,S 10:00 stop -418,S 10:00 stop -418,S 10:00 target +407,S 10:00 stop -418
+2025-03-18,True,L 11:25 time +178,L 11:25 target +368,L 11:25 target +368,L 11:25 time +178
+2025-03-19,True,S 11:15 stop -446,S 11:15 stop -446,S 11:15 stop -446,S 11:15 stop -446
+2025-03-20,True,S 11:00 target +421,S 11:00 target +598,S 11:00 target +303,S 11:00 target +968
+2025-03-21,False,,,,
+2025-03-24,True,S 11:40 stop -449,S 11:40 stop -449,S 11:40 stop -449,S 11:40 stop -449
+2025-03-25,True,S 09:55 stop -525 | S 11:35 time -347,S 09:55 stop -525 | S 11:35 time -347,S 09:55 stop -525 | S 11:35 time -347,S 09:55 stop -525 | S 11:35 time -347
+2025-03-26,False,,,,
+2025-03-27,True,L 09:50 target +146,L 09:50 target +186,L 09:50 target +186,L 09:50 time -139
+2025-03-28,False,,,,
+2025-03-31,True,L 10:40 target +331,L 10:40 time +697,L 10:40 target +172,L 10:40 target +510
+2025-04-01,False,,,,
+2025-04-02,False,,,,
+2025-04-03,True,L 11:30 stop -324,L 11:30 stop -324,L 11:30 stop -324,L 11:30 stop -324
+2025-04-04,True,stop_too_wide,stop_too_wide,stop_too_wide,stop_too_wide
+2025-04-07,True,stop_too_wide,no target,stop_too_wide,stop_too_wide
+2025-04-08,True,stop_too_wide,stop_too_wide,stop_too_wide,stop_too_wide
+2025-04-09,True,S 10:10 stop -463,no target,S 10:10 target +120,S 10:10 stop -463
+2025-04-10,False,,,,
+2025-04-11,False,,,,
+2025-04-14,False,,,,
+2025-04-15,True,S 10:35 time +64,S 10:35 time +64,S 10:35 time +64,S 10:35 time +64
+2025-04-16,False,,,,
+2025-04-17,True,L 10:50 time +233,L 10:50 time +233,L 10:50 time +233,L 10:50 target +761
+2025-04-21,False,,,,
+2025-04-22,True,S 11:35 stop -485,S 11:35 stop -485,S 11:35 stop -485,S 11:35 stop -485
+2025-04-23,False,,,,
+2025-04-24,True,S 10:55 stop -473,S 10:55 stop -473,S 10:55 stop -473,S 10:55 stop -473
+2025-04-25,False,,,,
+2025-04-28,True,S 10:10 target +253,S 10:10 time -103,S 10:10 target +328,S 10:10 target +953
+2025-04-29,False,,,,
+2025-04-30,False,,,,
+2025-05-01,True,S 10:05 target +5 | S 11:25 target +1746,S 10:05 stop -364 | S 11:25 time +2043,S 10:05 stop -364 | S 11:25 target +272,S 10:05 stop -364 | S 11:25 target +951
+2025-05-02,False,,,,
+2025-05-05,True,S 11:40 stop -452,S 11:40 stop -452,S 11:40 stop -452,S 11:40 stop -452
+2025-05-06,False,,,,
+2025-05-07,False,,,,
+2025-05-08,False,,,,
+2025-05-09,True,S 09:45 target +1166,S 09:45 time +1235,S 09:45 time +1235,S 09:45 target +926
+2025-05-12,False,,,,
+2025-05-13,False,,,,
+2025-05-14,True,S 10:05 stop -435,S 10:05 stop -435,S 10:05 stop -435,S 10:05 stop -435
+2025-05-15,False,,,,
+2025-05-16,False,,,,
+2025-05-19,True,S 10:50 stop -495,S 10:50 stop -495,S 10:50 stop -495,S 10:50 stop -495
+2025-05-20,False,,,,
+2025-05-21,False,,,,
+2025-05-22,False,,,,
+2025-05-23,True,L 11:25 time +35,no target,L 11:25 time +35,L 11:25 time +35
+2025-05-26,True,S 11:35 time -171,S 11:35 time -171,S 11:35 time -171,S 11:35 time -171
+2025-05-27,False,,,,
+2025-05-28,False,,,,
+2025-05-29,True,L 11:00 stop -459,L 11:00 stop -459,L 11:00 stop -459,L 11:00 stop -459
+2025-05-30,False,,,,
+2025-06-02,False,,,,
+2025-06-03,True,S 11:45 stop -496,S 11:45 stop -496,S 11:45 stop -496,S 11:45 stop -496
+2025-06-04,True,S 10:15 stop -409,S 10:15 stop -409,S 10:15 stop -409,S 10:15 stop -409
+2025-06-05,False,,,,
+2025-06-06,True,S 10:15 stop -451,S 10:15 stop -451,S 10:15 stop -451,S 10:15 stop -451
+2025-06-09,True,S 11:55 time +153,S 11:55 time +153,S 11:55 time +153,S 11:55 time +153
+2025-06-10,True,S 11:05 target +1440,S 11:05 stop -496,S 11:05 target +824,S 11:05 target +960
+2025-06-11,True,S 11:10 target +1424,S 11:10 time +1349,S 11:10 time +1349,S 11:10 target +863
+2025-06-12,False,,,,
+2025-06-13,False,,,,
+2025-06-16,True,S 10:50 stop -501,S 10:50 stop -501,S 10:50 stop -501,S 10:50 stop -501
+2025-06-17,True,S 09:45 stop -427 | S 11:35 target +1048,S 09:45 stop -427 | S 11:35 target +1694,S 09:45 stop -427 | S 11:35 target +1694,S 09:45 stop -427 | S 11:35 target +974
+2025-06-18,True,L 10:00 target +9 | S 11:05 target +1308,L 10:00 target +8 | S 11:05 time +1306,L 10:00 target +8 | S 11:05 target +190,L 10:00 stop -398
+2025-06-19,True,L 11:00 time -127,L 11:00 target +40,L 11:00 target +40,L 11:00 time -127
+2025-06-20,False,,,,
+2025-06-23,False,,,,
+2025-06-24,False,,,,
+2025-06-25,True,S 10:10 target +420,S 10:10 time +67,S 10:10 target +50,S 10:10 time +67
+2025-06-26,True,S 11:40 stop -518,S 11:40 stop -518,S 11:40 stop -518,S 11:40 stop -518
+2025-06-27,True,S 11:10 target +535,S 11:10 target +1422,S 11:10 target +462,S 11:10 target +845
+2025-06-30,False,,,,
+2025-07-01,False,,,,
+2025-07-02,True,S 11:25 stop -433,S 11:25 stop -433,S 11:25 stop -433,S 11:25 stop -433
+2025-07-03,True,S 11:55 time +373,S 11:55 time +373,S 11:55 target +724,S 11:55 target +961
+2025-07-04,False,,,,
+2025-07-07,False,,,,
+2025-07-08,True,L 11:45 target +434,L 11:45 time -39,L 11:45 time -39,L 11:45 time -39
+2025-07-09,False,,,,
+2025-07-10,False,,,,
+2025-07-11,True,S 11:20 stop -505,S 11:20 stop -505,S 11:20 stop -505,S 11:20 stop -505
+2025-07-14,True,S 09:45 stop -483,no target,S 09:45 stop -483,S 09:45 stop -483
+2025-07-15,True,S 10:35 target +164,S 10:35 target +276,S 10:35 target +276,S 10:35 time +632
+2025-07-16,True,L 10:25 target +278,no target,L 10:25 target +202,L 10:25 stop -459
+2025-07-17,True,S 10:20 stop -486,no target,S 10:20 stop -486,S 10:20 stop -486
+2025-07-18,False,,,,
+2025-07-21,False,,,,
+2025-07-22,True,L 10:40 time +22,L 10:40 time +22,L 10:40 time +22,L 10:40 time +22
+2025-07-23,False,,,,
+2025-07-24,False,,,,
+2025-07-25,False,,,,
+2025-07-28,False,,,,
+2025-07-29,False,,,,
+2025-07-30,True,S 11:25 stop -438,S 11:25 stop -438,S 11:25 stop -438,S 11:25 stop -438
+2025-07-31,False,,,,
+2025-08-01,True,L 11:00 stop -502,L 11:00 target +388,L 11:00 target +388,L 11:00 stop -502
+2025-08-04,False,,,,
+2025-08-05,False,,,,
+2025-08-06,True,S 10:45 stop -435,S 10:45 stop -435,S 10:45 stop -435,S 10:45 stop -435
+2025-08-07,False,,,,
+2025-08-08,False,,,,
+2025-08-11,False,,,,
+2025-08-12,True,S 10:05 stop -391,S 10:05 stop -391,S 10:05 target +464,S 10:05 stop -391
+2025-08-13,False,,,,
+2025-08-14,True,S 11:00 target +400,S 11:00 time +208,S 11:00 target +385,S 11:00 time +208
+2025-08-15,True,L 10:35 stop -464,no target,L 10:35 stop -464,L 10:35 stop -464
+2025-08-18,True,L 09:45 stop -514,L 09:45 stop -514,L 09:45 stop -514,L 09:45 stop -514
+2025-08-19,True,L 11:25 stop -395,L 11:25 stop -395,L 11:25 stop -395,L 11:25 stop -395
+2025-08-20,True,L 11:50 time +308,L 11:50 time +308,L 11:50 target +303,L 11:50 time +308
+2025-08-21,True,L 10:55 stop -278,L 10:55 stop -278,L 10:55 stop -278,L 10:55 stop -278
+2025-08-22,True,S 11:10 stop -347,S 11:10 stop -347,S 11:10 stop -347,S 11:10 stop -347
+2025-08-25,True,S 11:40 stop -514,S 11:40 stop -514,S 11:40 stop -514,S 11:40 stop -514
+2025-08-26,True,S 11:00 stop -468,S 11:00 stop -468,S 11:00 target +564,S 11:00 stop -468
+2025-08-27,False,,,,
+2025-08-28,True,S 10:15 stop -418,S 10:15 stop -418,S 10:15 stop -418,S 10:15 stop -418
+2025-08-29,True,L 10:25 stop -425,L 10:25 stop -425,L 10:25 stop -425,L 10:25 stop -425
+2025-09-01,False,,,,
+2025-09-02,True,L 11:20 time +658,L 11:20 target +668,L 11:20 target +301,L 11:20 target +671
+2025-09-03,True,S 11:20 target +1182,S 11:20 target +785,S 11:20 target +785,S 11:20 target +870
+2025-09-04,False,,,,
+2025-09-05,True,no target,stop_too_wide,stop_too_wide,stop_too_wide
+2025-09-08,False,,,,
+2025-09-09,False,,,,
+2025-09-10,False,,,,
+2025-09-11,True,S 09:45 stop -473,S 09:45 stop -473,S 09:45 stop -473,S 09:45 stop -473
+2025-09-12,True,S 11:10 stop -510,S 11:10 stop -510,S 11:10 target +370,S 11:10 stop -510
+2025-09-15,True,S 11:10 stop -517,S 11:10 stop -517,S 11:10 stop -517,S 11:10 stop -517
+2025-09-16,False,,,,
+2025-09-17,False,,,,
+2025-09-18,True,S 11:30 time +1417,S 11:30 time +1417,S 11:30 time +1417,S 11:30 target +916
+2025-09-19,True,S 10:35 stop -501,S 10:35 target +513,S 10:35 target +513,S 10:35 stop -501
+2025-09-22,True,S 11:30 stop -509,S 11:30 stop -509,S 11:30 stop -509,S 11:30 stop -509
+2025-09-23,False,,,,
+2025-09-24,True,L 10:15 stop -490,L 10:15 stop -490,L 10:15 stop -490,L 10:15 stop -490
+2025-09-25,False,,,,
+2025-09-26,True,L 11:15 target +381,L 11:15 time +714,L 11:15 time +714,L 11:15 time +714
+2025-09-29,False,,,,
+2025-09-30,False,,,,
+2025-10-01,True,S 09:55 stop -404 | S 11:25 stop -488,S 09:55 stop -404 | S 11:25 stop -488,S 09:55 stop -404 | S 11:25 stop -488,S 09:55 stop -404 | S 11:25 stop -488
+2025-10-02,False,,,,
+2025-10-03,False,,,,
+2025-10-06,False,,,,
+2025-10-07,False,,,,
+2025-10-08,False,,,,
+2025-10-09,False,,,,
+2025-10-10,True,S 10:00 target +362 | L 11:55 stop -322,S 10:00 target +882 | no target,S 10:00 target +79 | L 11:55 stop -322,S 10:00 target +806 | L 11:55 stop -322
+2025-10-13,True,L 09:50 target +61 | S 10:45 stop -441,L 09:50 time +298,L 09:50 target +270 | S 10:45 stop -342,L 09:50 time +298
+2025-10-14,True,L 10:00 target +241,L 10:00 target +241,L 10:00 target +241,L 10:00 time +306
+2025-10-15,False,,,,
+2025-10-16,True,S 11:00 target +750,S 11:00 target +871,S 11:00 target +760,S 11:00 target +926
+2025-10-17,False,,,,
+2025-10-20,False,,,,
+2025-10-21,False,,,,
+2025-10-22,False,,,,
+2025-10-23,True,S 10:10 stop -444 | S 11:40 stop -464,S 10:10 stop -444 | S 11:40 stop -464,S 10:10 target +439 | S 11:40 stop -464,S 10:10 stop -444 | S 11:40 stop -464
+2025-10-24,True,S 09:50 stop -478 | S 11:45 stop -474,S 09:50 stop -478 | S 11:45 stop -474,S 09:50 stop -478 | S 11:45 target +124,S 09:50 stop -478 | S 11:45 stop -474
+2025-10-27,True,S 10:55 stop -495,S 10:55 stop -495,S 10:55 stop -495,S 10:55 stop -495
+2025-10-28,False,,,,
+2025-10-29,True,S 10:05 target +534,S 10:05 target +658,S 10:05 target +365,S 10:05 target +931
+2025-10-30,True,L 10:15 stop -422,L 10:15 stop -422,L 10:15 stop -422,L 10:15 stop -422
+2025-10-31,True,L 10:40 stop -412,L 10:40 stop -412,L 10:40 stop -412,L 10:40 stop -412
+2025-11-03,False,,,,
+2025-11-04,True,L 11:55 stop -377,L 11:55 stop -377,L 11:55 stop -377,L 11:55 stop -377
+2025-11-05,False,,,,
+2025-11-06,False,,,,
+2025-11-07,False,,,,
+2025-11-10,False,,,,
+2025-11-11,False,,,,
+2025-11-12,False,,,,
+2025-11-13,True,L 09:55 stop -404,L 09:55 stop -404,L 09:55 stop -404,L 09:55 stop -404
+2025-11-14,False,,,,
+2025-11-17,False,,,,
+2025-11-18,False,,,,
+2025-11-19,True,S 10:35 target +2055,no target,S 10:35 target +182,S 10:35 target +889
+2025-11-20,False,,,,
+2025-11-21,True,L 10:50 target +301,L 10:50 target +619,L 10:50 target +619,L 10:50 target +635
+2025-11-24,True,S 12:00 stop -457,S 12:00 stop -457,S 12:00 stop -457,S 12:00 stop -457
+2025-11-25,False,,,,
+2025-11-26,False,,,,
+2025-11-27,False,,,,
+2025-11-28,False,,,,
+2025-12-01,True,S 10:30 stop -400,S 10:30 stop -400,S 10:30 stop -400,S 10:30 stop -400
+2025-12-02,False,,,,
+2025-12-03,True,L 10:10 target +643,no target,no target,L 10:10 target +678
+2025-12-04,False,,,,
+2025-12-05,True,S 10:40 time +912,S 10:40 time +912,S 10:40 target +1111,S 10:40 target +948
+2025-12-08,False,,,,
+2025-12-09,False,,,,
+2025-12-10,True,L 11:10 target +718,L 11:10 target +961,L 11:10 target +869,L 11:10 target +961
+2025-12-11,True,L 10:50 target +789,L 10:50 time +843,L 10:50 target +789,L 10:50 time +843
+2025-12-12,False,,,,
+2025-12-15,True,L 10:50 time -238,L 10:50 time -238,L 10:50 target +384,L 10:50 time -238
+2025-12-16,False,,,,
+2025-12-17,False,,,,
+2025-12-18,True,S 10:05 stop -403,S 10:05 stop -403,S 10:05 stop -403,S 10:05 stop -403
+2025-12-19,True,S 11:45 time -325,S 11:45 time -325,S 11:45 time -325,S 11:45 time -325
+2025-12-22,False,,,,
+2025-12-23,False,,,,
+2025-12-24,False,,,,
+2025-12-25,False,,,,
+2025-12-26,True,S 10:35 time +186,S 10:35 time +186,S 10:35 time +186,S 10:35 time +186
+2025-12-29,True,S 10:00 target +190,S 10:00 time -130,S 10:00 time -130,S 10:00 time -130
+2025-12-30,True,L 10:50 target +160 | S 11:35 target +396,L 10:50 stop -466,L 10:50 stop -466,L 10:50 stop -466
+2025-12-31,True,L 11:20 stop -453,L 11:20 target +422,L 11:20 target +422,L 11:20 stop -453
+2026-01-01,False,,,,
+2026-01-02,False,,,,
+2026-01-05,True,S 09:40 stop -429,S 09:40 stop -429,S 09:40 stop -429,S 09:40 stop -429
+2026-01-06,False,,,,
+2026-01-07,True,S 11:30 stop -480,S 11:30 stop -480,S 11:30 stop -480,S 11:30 stop -480
+2026-01-08,True,L 10:55 time -27,L 10:55 time -27,L 10:55 time -27,L 10:55 time -27
+2026-01-09,True,L 10:20 target +14,L 10:20 target +212,L 10:20 target +159,L 10:20 time +263
+2026-01-12,True,S 10:50 stop -498,S 10:50 stop -498,S 10:50 stop -498,S 10:50 stop -498
+2026-01-13,False,,,,
+2026-01-14,True,L 10:25 stop -497,L 10:25 stop -497,L 10:25 stop -497,L 10:25 stop -497
+2026-01-15,True,S 09:55 time +598,S 09:55 target +251,S 09:55 target +116,S 09:55 target +706
+2026-01-16,True,S 09:45 target +150 | L 10:55 time +4,S 09:45 target +211 | no target,S 09:45 target +211 | L 10:55 time +4,S 09:45 target +833 | L 10:55 time +4
+2026-01-19,False,,,,
+2026-01-20,False,,,,
+2026-01-21,True,S 11:20 stop -471,S 11:20 target +2247,S 11:20 target +1112,S 11:20 target +909
+2026-01-22,False,,,,
+2026-01-23,True,S 11:40 time +1034,S 11:40 time +1034,S 11:40 target +887,S 11:40 target +932
+2026-01-26,False,,,,
+2026-01-27,True,S 12:00 stop -484,S 12:00 target +47,S 12:00 target +47,S 12:00 stop -484
+2026-01-28,False,,,,
+2026-01-29,False,,,,
+2026-01-30,True,S 11:25 target +198,no target,S 11:25 target +166,S 11:25 time +256
+2026-02-02,True,S 10:30 stop -453,S 10:30 stop -453,S 10:30 target +197,S 10:30 stop -453
+2026-02-03,False,,,,
+2026-02-04,True,L 10:25 stop -281,L 10:25 stop -281,L 10:25 stop -281,L 10:25 stop -281
+2026-02-05,True,L 09:55 stop -474,L 09:55 stop -474,L 09:55 stop -474,L 09:55 stop -474
+2026-02-06,False,,,,
+2026-02-09,False,,,,
+2026-02-10,True,S 11:20 target +231,S 11:20 time +522,S 11:20 target +547,S 11:20 time +522
+2026-02-11,True,stop_too_wide,stop_too_wide,stop_too_wide,stop_too_wide
+2026-02-12,False,,,,
+2026-02-13,True,stop_too_wide,stop_too_wide,stop_too_wide,stop_too_wide
+2026-02-16,True,L 11:05 stop -434,L 11:05 stop -434,L 11:05 stop -434,L 11:05 stop -434
+2026-02-17,False,,,,
+2026-02-18,False,,,,
+2026-02-19,False,,,,
+2026-02-20,False,,,,
+2026-02-23,True,S 09:50 target +181 | L 11:45 time +90,no target,S 09:50 target +281 | L 11:45 time +90,S 09:50 target +926
+2026-02-24,True,L 10:00 target +93 | S 11:35 stop -443,no target,L 10:00 target +431,L 10:00 time +376
+2026-02-25,False,,,,
+2026-02-26,False,,,,
+2026-02-27,True,L 12:00 time -9,L 12:00 time -9,L 12:00 target +62,L 12:00 time -9
+2026-03-02,False,,,,
+2026-03-03,True,L 10:55 target +986,L 10:55 target +848,L 10:55 target +848,L 10:55 target +763
+2026-03-04,True,S 10:40 stop -347,S 10:40 stop -347,S 10:40 stop -347,S 10:40 stop -347
+2026-03-05,False,,,,
+2026-03-06,True,L 11:20 stop -449,L 11:20 stop -449,L 11:20 target +164,L 11:20 stop -449
+2026-03-09,False,,,,
+2026-03-10,True,S 10:00 stop -466 | S 11:30 stop -399,S 10:00 stop -466 | S 11:30 stop -399,S 10:00 stop -466 | S 11:30 target +178,S 10:00 stop -466 | S 11:30 stop -399
+2026-03-11,True,S 10:55 target +679,S 10:55 time +484,S 10:55 time +484,S 10:55 target +802
+2026-03-12,True,L 11:40 stop -255,L 11:40 stop -255,L 11:40 stop -255,L 11:40 stop -255
+2026-03-13,True,S 10:25 target +393,S 10:25 target +142,S 10:25 target +142,S 10:25 target +523
+2026-03-16,True,S 10:45 stop -483,S 10:45 stop -483,S 10:45 target +100,S 10:45 stop -483
+2026-03-17,True,S 10:05 time +422,S 10:05 time +422,S 10:05 time +422,S 10:05 target +810
+2026-03-18,True,L 11:20 stop -485,L 11:20 stop -485,L 11:20 stop -485,L 11:20 stop -485
+2026-03-19,True,L 09:45 target +383,L 09:45 target +196,L 09:45 target +196,L 09:45 time +229
+2026-03-20,False,,,,
+2026-03-23,True,S 10:50 time +743,S 10:50 target +994,S 10:50 target +994,S 10:50 target +670
+2026-03-24,True,L 10:05 time -114,L 10:05 time -114,L 10:05 time -114,L 10:05 time -114
+2026-03-25,True,S 09:45 target +257 | S 11:10 target +64,no target,S 09:45 target +393,S 09:45 time +178
+2026-03-26,False,,,,
+2026-03-27,False,,,,
+2026-03-30,True,L 10:10 stop -439 | L 11:30 target +132,L 10:10 stop -439 | L 11:30 stop -412,L 10:10 stop -439 | L 11:30 stop -412,L 10:10 stop -439 | L 11:30 stop -412
+2026-03-31,False,,,,
+2026-04-01,False,,,,
+2026-04-02,False,,,,
+2026-04-06,True,S 10:35 target +187,S 10:35 time -125,S 10:35 time -125,S 10:35 time -125
+2026-04-07,True,L 10:40 stop -339,no target,L 10:40 stop -339,L 10:40 stop -339
+2026-04-08,False,,,,
+2026-04-09,False,,,,
+2026-04-10,False,,,,
+2026-04-13,True,S 11:15 stop -498,S 11:15 stop -498,S 11:15 stop -498,S 11:15 stop -498
+2026-04-14,False,,,,
+2026-04-15,False,,,,
+2026-04-16,False,,,,
+2026-04-17,True,S 11:50 stop -463,S 11:50 stop -463,S 11:50 stop -463,S 11:50 stop -463
+2026-04-20,True,S 09:45 target +445,S 09:45 time -60,S 09:45 target +488,S 09:45 time -60
+2026-04-21,True,S 10:50 target +148,S 10:50 target +389,S 10:50 target +389,S 10:50 target +723
+2026-04-22,True,S 09:45 stop -437,S 09:45 stop -437,S 09:45 stop -437,S 09:45 stop -437
+2026-04-23,True,S 10:00 stop -355,S 10:00 stop -355,S 10:00 stop -355,S 10:00 stop -355
+2026-04-24,False,,,,
+2026-04-27,False,,,,
+2026-04-28,True,L 09:55 stop -417 | L 12:00 time +831,L 09:55 stop -417 | L 12:00 time +831,L 09:55 stop -417 | L 12:00 time +831,L 09:55 stop -417 | L 12:00 target +836
+2026-04-29,True,L 10:00 target +510,L 10:00 time +764,L 10:00 time +764,L 10:00 time +764
+2026-04-30,False,,,,
+2026-05-01,True,S 11:00 stop -445,S 11:00 stop -445,S 11:00 stop -445,S 11:00 stop -445
+2026-05-04,False,,,,
+2026-05-05,True,S 10:15 stop -502,S 10:15 stop -502,S 10:15 stop -502,S 10:15 stop -502
+2026-05-06,False,,,,
+2026-05-07,True,S 09:45 stop -419 | S 11:10 target +988,S 09:45 stop -419 | S 11:10 target +479,S 09:45 stop -419 | S 11:10 target +195,S 09:45 stop -419 | S 11:10 target +987
+2026-05-08,False,,,,
+2026-05-11,False,,,,
+2026-05-12,False,,,,
+2026-05-13,False,,,,
+2026-05-14,True,S 10:00 stop -363,S 10:00 stop -363,S 10:00 stop -363,S 10:00 stop -363
+2026-05-15,False,,,,
+2026-05-18,True,S 10:20 target +300,S 10:20 target +599,S 10:20 target +599,S 10:20 target +609
+2026-05-19,True,L 09:45 stop -389 | L 10:40 target +2276,L 09:45 stop -389 | L 10:40 time +1060,L 09:45 stop -389 | L 10:40 time +1060,L 09:45 stop -389 | L 10:40 target +975
+2026-05-20,False,,,,
+2026-05-21,False,,,,
+2026-05-22,True,S 10:10 stop -305,S 10:10 stop -305,S 10:10 target +140,S 10:10 stop -305
+2026-05-25,False,,,,
+2026-05-26,True,S 10:50 time -68,S 10:50 time -68,S 10:50 target +627,S 10:50 target +896
+2026-05-27,True,L 11:30 time +312,L 11:30 time +312,L 11:30 time +312,L 11:30 time +312
+2026-05-28,False,,,,
+2026-05-29,False,,,,
+2026-06-01,False,,,,
+2026-06-02,False,,,,
+2026-06-03,True,S 11:30 target +133,S 11:30 time +15,S 11:30 time +15,S 11:30 time +15
+2026-06-04,False,,,,
+2026-06-05,True,L 10:30 stop -298,L 10:30 stop -298,L 10:30 stop -298,L 10:30 stop -298
+2026-06-08,False,,,,
+2026-06-09,False,,,,
+2026-06-10,True,L 11:40 stop -373,L 11:40 stop -373,L 11:40 stop -373,L 11:40 stop -373
+2026-06-11,True,L 11:30 target -0,L 11:30 target +979,L 11:30 target +979,L 11:30 target +898
+2026-06-12,False,,,,
+2026-06-15,True,S 10:05 stop -419,S 10:05 stop -419,S 10:05 stop -419,S 10:05 stop -419
+2026-06-16,True,S 10:10 target +27,S 10:10 target +856,S 10:10 target +856,S 10:10 target +940
+2026-06-17,False,,,,
+2026-06-18,True,S 09:50 stop -295 | S 11:40 stop -279,S 09:50 stop -295 | S 11:40 stop -279,S 09:50 stop -295 | S 11:40 stop -279,S 09:50 stop -295 | S 11:40 stop -279
+2026-06-19,True,S 11:50 time +773,S 11:50 time +773,S 11:50 time +773,S 11:50 time +773
+2026-06-22,False,,,,
+2026-06-23,False,,,,
+2026-06-24,True,stop_too_wide,stop_too_wide,stop_too_wide,stop_too_wide
+2026-06-25,True,stop_too_wide,stop_too_wide,stop_too_wide,stop_too_wide
+2026-06-26,False,,,,
+2026-06-29,False,,,,
+2026-06-30,False,,,,
+2026-07-01,False,,,,
+2026-07-02,False,,,,
+2026-07-03,False,,,,
+2026-07-06,False,,,,
+2026-07-07,False,,,,
+2026-07-08,True,L 11:35 target +1792,L 11:35 target +1986,L 11:35 target +1986,L 11:35 target +923
+2026-07-09,True,S 11:40 stop -501,S 11:40 stop -501,S 11:40 stop -501,S 11:40 stop -501
+2026-07-10,True,S 10:50 stop -464,S 10:50 stop -464,S 10:50 stop -464,S 10:50 stop -464
+2026-07-13,False,,,,
+2026-07-14,True,S 09:45 stop -492 | S 12:00 time -113,S 09:45 stop -492 | S 12:00 time -113,S 09:45 target +873 | S 10:45 stop -290,S 09:45 target +960 | S 10:45 stop -290
+2026-07-15,False,,,,
+2026-07-16,True,L 10:50 stop -263,no target,L 10:50 stop -263,L 10:50 stop -263
+2026-07-17,False,,,,
+2026-07-20,False,,,,
+2026-07-21,True,S 09:50 target +212,S 09:50 target +212,S 09:50 target +212,S 09:50 stop -422
+2026-07-22,True,S 10:10 stop -494 | S 11:50 time +1973,S 10:10 stop -494 | S 11:50 target +1868,S 10:10 stop -494 | S 11:50 target +1868,S 10:10 stop -494 | S 11:50 target +972
+2026-07-23,True,L 09:50 stop -331,L 09:50 stop -331,L 09:50 stop -331,L 09:50 stop -331
+2026-07-24,True,L 11:05 stop -442,L 11:05 stop -442,L 11:05 target +581,L 11:05 target +874
+2026-07-27,True,L 11:15 time +172,L 11:15 time +172,L 11:15 time +172,L 11:15 time +172
+2026-07-28,True,L 10:25 target +1366,L 10:25 target +1446,L 10:25 target +365 | L 11:15 target +58,L 10:25 target +812
+2026-07-29,False,,,,
+2026-07-30,True,S 10:15 stop -427,S 10:15 stop -427,S 10:15 stop -427,S 10:15 stop -427
+2026-07-31,False,,,,
+2026-08-03,False,,,,
+2026-08-04,False,,,,
+2026-08-05,False,,,,
+2026-08-06,True,S 10:35 stop -456,S 10:35 stop -456,S 10:35 stop -456,S 10:35 stop -456
+2026-08-07,False,,,,
+2026-08-10,False,,,,
+2026-08-11,False,,,,
+2026-08-12,True,S 09:50 time +159,S 09:50 time +159,S 09:50 time +159,S 09:50 time +159
+2026-08-13,True,S 10:45 stop -493,S 10:45 stop -493,S 10:45 target +323,S 10:45 target +962
+2026-08-14,False,,,,
+2026-08-17,False,,,,
+2026-08-18,False,,,,
+2026-08-19,True,L 10:40 target +91,L 10:40 time -98,L 10:40 target +143,L 10:40 time -98
+2026-08-20,False,,,,
+2026-08-21,True,L 10:45 target +348,L 10:45 time +344,L 10:45 target +187,L 10:45 time +344
+2026-08-24,True,L 10:25 time +498,L 10:25 time +498,L 10:25 target +141,L 10:25 target +776
+2026-08-25,True,S 11:50 target +97,no target,S 11:50 time -30,S 11:50 time -30
+2026-08-26,True,S 11:20 stop -371,no target,no target,S 11:20 stop -371
+2026-08-27,False,,,,
+2026-08-28,True,S 11:15 target +937,S 11:15 time +1528,S 11:15 target +123,S 11:15 target +778
+2026-08-31,False,,,,
+2026-09-01,False,,,,
+2026-09-02,False,,,,
+2026-09-03,True,S 10:35 stop -367,S 10:35 stop -367,S 10:35 stop -367,S 10:35 stop -367
+2026-09-04,True,S 10:10 target +1492,S 10:10 target +1690,S 10:10 target +1690,S 10:10 target +881
+2026-09-07,False,,,,
+2026-09-08,False,,,,
+2026-09-09,False,,,,
+2026-09-10,True,L 10:05 time -22,L 10:05 target +394,L 10:05 target +394,L 10:05 time -22
+2026-09-11,True,S 11:05 stop -437,S 11:05 stop -437,S 11:05 stop -437,S 11:05 stop -437
+2026-09-14,True,L 11:15 target +82,L 11:15 time +164,L 11:15 time +164,L 11:15 time +164
+2026-09-15,True,L 11:10 stop -467,L 11:10 stop -467,L 11:10 target +195,L 11:10 stop -467
+2026-09-16,False,,,,
+2026-09-17,True,S 10:55 stop -414,S 10:55 stop -414,S 10:55 stop -414,S 10:55 stop -414
+2026-09-18,False,,,,
+2026-09-21,True,S 10:45 stop -458,S 10:45 stop -458,S 10:45 stop -458,S 10:45 stop -458
+2026-09-22,True,S 10:55 stop -436,S 10:55 stop -436,S 10:55 stop -436,S 10:55 stop -436
+2026-09-23,False,,,,
+2026-09-24,True,S 10:50 target +188,S 10:50 stop -456,S 10:50 target +185,S 10:50 stop -456
+2026-09-25,True,S 11:10 stop -408,S 11:10 stop -408,S 11:10 stop -408,S 11:10 stop -408
+2026-09-28,False,,,,
+2026-09-29,True,S 10:15 target +1075,S 10:15 target +1075,S 10:15 target +1075,S 10:15 target +978
+2026-09-30,True,S 10:20 stop -500,S 10:20 stop -500,S 10:20 stop -500,S 10:20 stop -500
+2026-10-01,False,,,,
+2026-10-02,False,,,,
+2026-10-05,True,S 10:00 stop -474,S 10:00 stop -474,S 10:00 stop -474,S 10:00 stop -474
+2026-10-06,False,,,,
+2026-10-07,True,L 10:20 time +244,L 10:20 target +47,L 10:20 target +47,L 10:20 time +244
+2026-10-08,True,S 10:40 target +273,S 10:40 target +1119,S 10:40 target +259,S 10:40 target +888
+2026-10-09,True,L 10:50 time +95,no target,L 10:50 time +95,L 10:50 time +95
+2026-10-12,False,,,,
+2026-10-13,True,L 11:55 target +265,L 11:55 time +334,L 11:55 time +334,L 11:55 time +334
+2026-10-14,True,L 09:40 stop -347,L 09:40 stop -347,L 09:40 target +209,L 09:40 stop -347
+2026-10-15,True,L 09:40 stop -279,L 09:40 stop -279,L 09:40 stop -279,L 09:40 stop -279
+2026-10-16,False,,,,
+2026-10-19,False,,,,
+2026-10-20,False,,,,
+2026-10-21,True,S 10:25 stop -453,no target,S 10:25 stop -453,S 10:25 stop -453
+2026-10-22,True,L 11:30 stop -437,L 11:30 stop -437,L 11:30 target +694,L 11:30 stop -437
+2026-10-23,False,,,,

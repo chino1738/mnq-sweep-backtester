@@ -1,0 +1,6 @@
+*.csv
+!results/*.csv
+duka/
+__pycache__/
+.DS_Store
+.env*

@@ -1,0 +1,327 @@
+{
+  "file": "NDX_5m.csv",
+  "sweep_start": "09:30",
+  "max_trades": 2,
+  "entry_mode": "cont",
+  "bias": "none",
+  "entry_end": "12:00",
+  "flat_at": "16:00",
+  "inv_max": 0,
+  "fib": "swing",
+  "close_pts": 30.0,
+  "risk_usd": 500.0,
+  "days_tested": 472,
+  "setups": 240,
+  "by_target": {
+    "session": {
+      "trades": 255,
+      "win_rate": 42.4,
+      "net_pnl": -3575.87,
+      "avg_win": 517.86,
+      "avg_loss": -404.8,
+      "profit_factor": 0.94,
+      "avg_r": -0.03,
+      "max_drawdown": -8929.1,
+      "worst_losing_streak": 6
+    },
+    "htf_gap": {
+      "trades": 226,
+      "win_rate": 38.1,
+      "net_pnl": 1397.39,
+      "avg_win": 660.79,
+      "avg_loss": -395.93,
+      "profit_factor": 1.03,
+      "avg_r": 0.01,
+      "max_drawdown": -6400.17,
+      "worst_losing_streak": 7
+    },
+    "pdra": {
+      "trades": 252,
+      "win_rate": 52.4,
+      "net_pnl": 10339.51,
+      "avg_win": 443.2,
+      "avg_loss": -401.36,
+      "profit_factor": 1.21,
+      "avg_r": 0.08,
+      "max_drawdown": -4903.43,
+      "worst_losing_streak": 6
+    },
+    "2R": {
+      "trades": 249,
+      "win_rate": 37.3,
+      "net_pnl": -2500.45,
+      "avg_win": 636.14,
+      "avg_loss": -395.27,
+      "profit_factor": 0.96,
+      "avg_r": -0.02,
+      "max_drawdown": -11711.05,
+      "worst_losing_streak": 8
+    }
+  },
+  "monthly_session_target": {
+    "2025-01": {
+      "trades": 9,
+      "wins": 5.0,
+      "net": 1463.77
+    },
+    "2025-02": {
+      "trades": 12,
+      "wins": 6.0,
+      "net": -1048.21
+    },
+    "2025-03": {
+      "trades": 18,
+      "wins": 6.0,
+      "net": -2177.67
+    },
+    "2025-04": {
+      "trades": 7,
+      "wins": 3.0,
+      "net": -1195.57
+    },
+    "2025-05": {
+      "trades": 9,
+      "wins": 4.0,
+      "net": 939.61
+    },
+    "2025-06": {
+      "trades": 15,
+      "wins": 8.0,
+      "net": 3409.15
+    },
+    "2025-07": {
+      "trades": 10,
+      "wins": 5.0,
+      "net": -1072.8
+    },
+    "2025-08": {
+      "trades": 14,
+      "wins": 2.0,
+      "net": -4444.59
+    },
+    "2025-09": {
+      "trades": 10,
+      "wins": 4.0,
+      "net": 639.86
+    },
+    "2025-10": {
+      "trades": 16,
+      "wins": 5.0,
+      "net": -2896.83
+    },
+    "2025-11": {
+      "trades": 5,
+      "wins": 2.0,
+      "net": 1119.07
+    },
+    "2025-12": {
+      "trades": 13,
+      "wins": 8.0,
+      "net": 2174.53
+    },
+    "2026-01": {
+      "trades": 13,
+      "wins": 6.0,
+      "net": -887.46
+    },
+    "2026-02": {
+      "trades": 10,
+      "wins": 4.0,
+      "net": -1498.97
+    },
+    "2026-03": {
+      "trades": 18,
+      "wins": 9.0,
+      "net": 621.74
+    },
+    "2026-04": {
+      "trades": 11,
+      "wins": 5.0,
+      "net": -388.49
+    },
+    "2026-05": {
+      "trades": 11,
+      "wins": 4.0,
+      "net": 1385.66
+    },
+    "2026-06": {
+      "trades": 9,
+      "wins": 3.0,
+      "net": -730.48
+    },
+    "2026-07": {
+      "trades": 14,
+      "wins": 5.0,
+      "net": 1987.45
+    },
+    "2026-08": {
+      "trades": 9,
+      "wins": 6.0,
+      "net": 810.5
+    },
+    "2026-09": {
+      "trades": 13,
+      "wins": 4.0,
+      "net": -672.17
+    },
+    "2026-10": {
+      "trades": 9,
+      "wins": 4.0,
+      "net": -1113.97
+    }
+  },
+  "topstep_50k_session_target": {
+    "passed": 3,
+    "failed": 10,
+    "in_progress_balance": -758.65,
+    "log": [
+      "FAIL 2025-01-03 -> 2025-03-14",
+      "FAIL 2025-03-17 -> 2025-04-22",
+      "FAIL 2025-04-24 -> 2025-06-03",
+      "PASS 2025-06-04 -> 2025-06-18",
+      "FAIL 2025-06-19 -> 2025-08-06",
+      "FAIL 2025-08-12 -> 2025-08-25",
+      "FAIL 2025-08-26 -> 2025-10-01",
+      "FAIL 2025-10-10 -> 2025-10-27",
+      "PASS 2025-10-29 -> 2025-12-11",
+      "FAIL 2025-12-15 -> 2026-01-14",
+      "FAIL 2026-01-15 -> 2026-03-10",
+      "PASS 2026-03-11 -> 2026-07-08",
+      "FAIL 2026-07-09 -> 2026-09-22"
+    ]
+  },
+  "topstep_50k_by_target": {
+    "session": {
+      "passed": 3,
+      "failed": 10,
+      "in_progress_balance": -758.65
+    },
+    "htf_gap": {
+      "passed": 4,
+      "failed": 9,
+      "in_progress_balance": -325.75
+    },
+    "pdra": {
+      "passed": 4,
+      "failed": 6,
+      "in_progress_balance": 1871.73
+    },
+    "2R": {
+      "passed": 4,
+      "failed": 10,
+      "in_progress_balance": -815.66
+    }
+  },
+  "monthly_pdra_target": {
+    "2025-01": {
+      "trades": 10,
+      "wins": 8.0,
+      "net": 3345.59
+    },
+    "2025-02": {
+      "trades": 12,
+      "wins": 6.0,
+      "net": -1324.41
+    },
+    "2025-03": {
+      "trades": 18,
+      "wins": 8.0,
+      "net": -848.75
+    },
+    "2025-04": {
+      "trades": 7,
+      "wins": 4.0,
+      "net": -537.68
+    },
+    "2025-05": {
+      "trades": 9,
+      "wins": 3.0,
+      "net": -834.43
+    },
+    "2025-06": {
+      "trades": 15,
+      "wins": 9.0,
+      "net": 1969.81
+    },
+    "2025-07": {
+      "trades": 10,
+      "wins": 4.0,
+      "net": -1159.32
+    },
+    "2025-08": {
+      "trades": 14,
+      "wins": 5.0,
+      "net": -1687.35
+    },
+    "2025-09": {
+      "trades": 10,
+      "wins": 6.0,
+      "net": 2110.19
+    },
+    "2025-10": {
+      "trades": 16,
+      "wins": 7.0,
+      "net": -1550.44
+    },
+    "2025-11": {
+      "trades": 5,
+      "wins": 2.0,
+      "net": -436.62
+    },
+    "2025-12": {
+      "trades": 11,
+      "wins": 6.0,
+      "net": 2036.61
+    },
+    "2026-01": {
+      "trades": 13,
+      "wins": 8.0,
+      "net": 771.39
+    },
+    "2026-02": {
+      "trades": 9,
+      "wins": 6.0,
+      "net": 419.25
+    },
+    "2026-03": {
+      "trades": 17,
+      "wins": 10.0,
+      "net": 1403.43
+    },
+    "2026-04": {
+      "trades": 11,
+      "wins": 4.0,
+      "net": -161.95
+    },
+    "2026-05": {
+      "trades": 11,
+      "wins": 6.0,
+      "net": 815.98
+    },
+    "2026-06": {
+      "trades": 9,
+      "wins": 4.0,
+      "net": 960.74
+    },
+    "2026-07": {
+      "trades": 15,
+      "wins": 8.0,
+      "net": 3343.81
+    },
+    "2026-08": {
+      "trades": 8,
+      "wins": 6.0,
+      "net": 589.19
+    },
+    "2026-09": {
+      "trades": 13,
+      "wins": 6.0,
+      "net": 682.91
+    },
+    "2026-10": {
+      "trades": 9,
+      "wins": 6.0,
+      "net": 431.56
+    }
+  }
+}
